@@ -24,7 +24,7 @@
            $points++;
 
      	
-     	echo("<p>Du fick " . $points . " av 2 möjliga</p>");
+     	echo("<p>Du fick " . $points . " av fem möjliga</p>");
 ?>
 </body>
 </html>
