@@ -11,7 +11,7 @@
    <p><strong>denna sida (index.php) ska bytas ut</strong></p>
 
    <?php
-   $date = date("Y-m-d")
+   $date = date("Y-m-d");
    echo "<h2>PHP dagens datum: $date</h2>";
    ?>
    
