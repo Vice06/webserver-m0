@@ -10,6 +10,7 @@
         $ans3 = $_POST['q3'];
         $ans4 = $_POST['q4'];
         $ans5 = $_POST['q5'];
+        $userName = $_POST['userName'];
      	$points = 0;
      	
      	if($ans1 == 9)
@@ -24,7 +25,7 @@
            $points++;
 
      	
-     	echo("<p>Du fick " . $points . " av fem möjliga</p>");
+     	echo("<p>$userName fick " . $points . " av 5 möjliga</p>");
 ?>
 </body>
 </html>

@@ -21,6 +21,9 @@
        <label>10 * 10 = </label>
        <input type="text" name="q5">
        <br>
+       <label>Input name</label>
+       <input type="text" name="userName">
+       <br>
        <input type="submit" value="Rätta">
    </fieldset>
    
